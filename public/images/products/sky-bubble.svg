@@ -1,0 +1,17 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Blue blob body -->
+  <path d="M100,20 C60,20 30,50 30,90 C30,110 35,128 45,142 C45,160 60,180 100,180 C140,180 155,160 155,142 C165,128 170,110 170,90 C170,50 140,20 100,20 Z" fill="#A8D8FF" stroke="#7BC4FF" stroke-width="2"/>
+
+  <!-- Cute eyes -->
+  <circle cx="75" cy="80" r="8" fill="#333"/>
+  <circle cx="125" cy="80" r="8" fill="#333"/>
+  <circle cx="77" cy="77" r="3" fill="#FFF"/>
+  <circle cx="127" cy="77" r="3" fill="#FFF"/>
+
+  <!-- Blushing cheeks -->
+  <ellipse cx="55" cy="95" rx="12" ry="8" fill="#7BC4FF" opacity="0.5"/>
+  <ellipse cx="145" cy="95" rx="12" ry="8" fill="#7BC4FF" opacity="0.5"/>
+
+  <!-- Sweet smile -->
+  <path d="M 85,105 Q 100,115 115,105" stroke="#333" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,25 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Multi-colored blob body -->
+  <path d="M100,35 C60,35 30,65 30,105 C30,125 35,143 45,157 C45,175 60,195 100,195 C140,195 155,175 155,157 C165,143 170,125 170,105 C170,65 140,35 100,35 Z" fill="#FF6B6B" stroke="#E85A5A" stroke-width="2"/>
+
+  <!-- Winter hat -->
+  <ellipse cx="100" cy="38" rx="45" ry="8" fill="#FF0000"/>
+  <path d="M 65,38 L 65,20 Q 65,10 75,10 L 125,10 Q 135,10 135,20 L 135,38" fill="#FF0000" stroke="#CC0000" stroke-width="2"/>
+  <rect x="70" y="15" width="60" height="20" fill="#FFF" rx="2"/>
+
+  <!-- Pom-pom -->
+  <circle cx="100" cy="8" r="8" fill="#FFF"/>
+
+  <!-- Cute eyes -->
+  <circle cx="75" cy="95" r="8" fill="#333"/>
+  <circle cx="125" cy="95" r="8" fill="#333"/>
+  <circle cx="77" cy="92" r="3" fill="#FFF"/>
+  <circle cx="127" cy="92" r="3" fill="#FFF"/>
+
+  <!-- Blushing cheeks -->
+  <ellipse cx="55" cy="110" rx="12" ry="8" fill="#FF8A8A" opacity="0.6"/>
+  <ellipse cx="145" cy="110" rx="12" ry="8" fill="#FF8A8A" opacity="0.6"/>
+
+  <!-- Sweet smile -->
+  <path d="M 85,120 Q 100,130 115,120" stroke="#333" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>

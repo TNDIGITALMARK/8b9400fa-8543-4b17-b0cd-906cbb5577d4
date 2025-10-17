@@ -1,0 +1,24 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Pink blob body -->
+  <path d="M100,30 C60,30 30,60 30,100 C30,120 35,138 45,152 C45,170 60,190 100,190 C140,190 155,170 155,152 C165,138 170,120 170,100 C170,60 140,30 100,30 Z" fill="#FFB6D9" stroke="#FF9EC7" stroke-width="2"/>
+
+  <!-- Cupcake frosting hat -->
+  <path d="M 60,40 Q 70,20 80,25 Q 90,15 100,20 Q 110,15 120,25 Q 130,20 140,40 L 140,50 Q 130,55 120,50 Q 110,55 100,50 Q 90,55 80,50 Q 70,55 60,50 Z" fill="#FFF8F0" stroke="#FFE4E1" stroke-width="2"/>
+
+  <!-- Cherry on top -->
+  <circle cx="100" cy="22" r="6" fill="#FF6B6B"/>
+  <path d="M 100,22 Q 102,18 105,15" stroke="#8B4513" stroke-width="2" fill="none"/>
+
+  <!-- Cute eyes -->
+  <circle cx="75" cy="90" r="8" fill="#333"/>
+  <circle cx="125" cy="90" r="8" fill="#333"/>
+  <circle cx="77" cy="87" r="3" fill="#FFF"/>
+  <circle cx="127" cy="87" r="3" fill="#FFF"/>
+
+  <!-- Blushing cheeks -->
+  <ellipse cx="55" cy="105" rx="12" ry="8" fill="#FFB6D9" opacity="0.6"/>
+  <ellipse cx="145" cy="105" rx="12" ry="8" fill="#FFB6D9" opacity="0.6"/>
+
+  <!-- Sweet smile -->
+  <path d="M 85,115 Q 100,125 115,115" stroke="#333" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>
